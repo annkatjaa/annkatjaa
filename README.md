@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anna @annkatjaa
 - 👀 I’m interested in corpus linguistics, sociolinguistics, and digital humanities 
-- 📫 How to reach me anna.janka@ds.uzh.ch
+- 📫 You can reach me at annakatharina dot janka at phzh dot ch
 
 <!---
 annkatjaa/annkatjaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
